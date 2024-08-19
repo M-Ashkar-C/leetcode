@@ -9,9 +9,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/M-Ashkar-C/leetcode/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/M-Ashkar-C/leetcode/tree/master/0415-add-strings) |
 | [0782-jewels-and-stones](https://github.com/M-Ashkar-C/leetcode/tree/master/0782-jewels-and-stones) |
 ## Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/M-Ashkar-C/leetcode/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/M-Ashkar-C/leetcode/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/M-Ashkar-C/leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
